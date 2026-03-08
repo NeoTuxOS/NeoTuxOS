@@ -95,3 +95,4 @@ Your privacy is important to the developer of NeoLixOS. This policy explains wha
 - Continued use of NeoLixOS or the website implies acceptance of any updates.
 
 
+[NeoLixOS Website](https://projectneo.netlify.app/)
