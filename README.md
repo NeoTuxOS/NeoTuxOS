@@ -1,36 +1,27 @@
-- ![NeoTuxOS](logos/Images/NeoLogo/NeoTuxLogo.png)
+![NeoTuxOS](logos/Images/NeoLogo/NeoTuxLogo.png)
 
-**NeoTuxOS** is a fast, lightweight, and flexible operating system designed for everyday use.
+**NeoTuxOS** is a lightweight, bloat-free Linux distro based on Arch, made for everyday use.
 
-## Built on Arch Linux
+## Built on Arch Linux™
 
-NeoTuxOS is planned to be based on Arch Linux, bringing a modern rolling-release foundationwith up-to-date software and a modern system design.
+NeoTuxOS runs on Arch Linux™ under the hood. Rolling release means your system is always current — no big version jumps, no reinstalls.
 
-The goal is to combine Arch’s power and simplicity with a more guided and approachable experience.
+---
 
---------------------------
 **NeoTuxOS** currently offers four desktop environment editions:
 
-- ![Neodymium Logo](logos/Images/NeoBuilds/Neodymium.png) **Neodymium (GNOME)** – GNOME based edition. Clean, modern, and focused. Designed for a smooth and productive daily experience.
+- ![Neodymium Logo](logos/Images/NeoBuilds/Neodymium.png) **Neodymium (GNOME)** – Clean interface, essential apps only, and Firefox. Nothing extra.
+- ![Neocelium Logo](logos/Images/NeoBuilds/Neocelium.png) **Neocelium (KDE Plasma)** – Fully customizable desktop with KDE's own app suite. Not bloat-free by nature, but trimmed down as much as possible.
+- ![Neopluma Logo](logos/Images/NeoBuilds/Neopluma.png) **Neopluma (Budgie)** – Simple layout, essential apps only, and Firefox. Nothing in the way.
+- ![Neolytum Logo](logos/Images/NeoBuilds/Neolytum.png) **Neolytum (XFCE)** – Fast and light, essential apps only, and Firefox. Works well on older hardware too.
 
+All editions run on the same Arch-based core. Different desktop, same system.
 
-- ![Neocelium Logo](logos/Images/NeoBuilds/Neocelium.png) **Neocelium (KDE Plasma)** – KDE Plasma based edition.Powerful, flexible, and highly customizable. Built for users who want full control over their desktop.
+## These system builds are currently in development and not yet available.
 
-  
-- ![Neopluma Logo](logos/Images/NeoBuilds/Neopluma.png) **Neopluma (Budgie)** – Budgie based edition. Elegant, minimal, and balanced. A modern interface with a familiar and comfortable workflow.
+---
 
-  
-- ![Neolytum Logo](logos/Images/NeoBuilds/Neolytum.png) **Neolytum (XFCE)** – XFCE based edition. Fast, lightweight, and efficient. Ideal for performance focused users and low-end systems.
-
-
- All editions share the same Arch-based core. Choose the desktop that fits for you.
- 
-
- ## These system builds are currently in development and not yet available.
-
- -----------------------------
-
- # NeoTuxOS Terms and Conditions
+# NeoTuxOS Terms and Conditions
 
 Welcome to NeoTuxOS! By using, downloading, or distributing NeoTuxOS, you agree to the following terms:
 
@@ -68,9 +59,9 @@ Use at your own risk.
 ## 7. Changes to Terms
 
 NeoTuxOS may update these Terms and Conditions. By continuing to use the software, you accept any changes.
- 
- -----------------------------
- 
+
+---
+
 # NeoTuxOS Privacy Policy
 
 Your privacy is important to the developer of NeoTuxOS. This policy explains what information is collected and how it is used.
@@ -93,6 +84,5 @@ Your privacy is important to the developer of NeoTuxOS. This policy explains wha
 
 - This Privacy Policy may be updated over time.  
 - Continued use of NeoTuxOS or the website implies acceptance of any updates.
-
 
 [NeoTuxOS Website](https://projectneo.netlify.app/)
