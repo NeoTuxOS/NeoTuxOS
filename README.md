@@ -11,9 +11,9 @@ NeoTuxOS runs on Arch Linux™ under the hood. Rolling release means your system
 **NeoTuxOS** currently offers four desktop environment editions:
 
 - ![Neodymium Logo](logos/Images/NeoBuilds/Neodymium.png) **Neodymium (GNOME)** – Clean interface, essential apps only, and Firefox. Nothing extra.
-- ![Neosilicium Logo](logos/Images/NeoBuilds/Neosilicium.png) **Neosilicium (KDE Plasma)** – Fully customizable desktop with KDE's own app suite. Not bloat-free by nature, but trimmed down as much as possible.
-- ![Neocobalt Logo](logos/Images/NeoBuilds/Neocobalt.png) **Neocobalt (Budgie)** – Simple layout, essential apps only, and Firefox. Nothing in the way.
 - ![Neohelium Logo](logos/Images/NeoBuilds/Neohelium.png) **Neohelium (XFCE)** – Fast and light, essential apps only, and Firefox. Works well on older hardware too.
+- ![Neocobalt Logo](logos/Images/NeoBuilds/Neocobalt.png) **Neocobalt (Budgie)** – Simple layout, essential apps only, and Firefox. Nothing in the way.
+- ![Neosilicium Logo](logos/Images/NeoBuilds/Neosilicium.png) **Neosilicium (KDE Plasma)** – Fully customizable desktop with KDE's own app suite. Not bloat-free by nature, but trimmed down as much as possible.
 
 All editions run on the same Arch-based core. Different desktop, same system.
 
