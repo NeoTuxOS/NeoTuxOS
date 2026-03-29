@@ -85,4 +85,37 @@ Your privacy is important to the developer of NeoTuxOS. This policy explains wha
 - This Privacy Policy may be updated over time.  
 - Continued use of NeoTuxOS or the website implies acceptance of any updates.
 
+---
+
+# Trademark Policy
+
+Last updated: 2026
+
+## NeoTux Name & Logo
+
+- The NeoTux name and its logos are owned by the NeoTux project. You may reference the NeoTux name in non-commercial contexts freely. You may not use the NeoTux name or logo to imply official endorsement or affiliation without permission.
+
+## Arch Linux™
+
+- NeoTux is based on Arch Linux™. The Arch Linux name and logo are trademarks of Judd Vinet and Aaron Griffin. NeoTux is an independent project and is not affiliated with, endorsed by, or sponsored by the Arch Linux project.
+
+- Use of the Arch Linux™ name on this website is solely to indicate that NeoTux is derived from Arch Linux, as permitted under Arch Linux's trademark policy.
+
+## Firefox
+
+- Firefox is a trademark of the Mozilla Foundation. NeoTux includes Firefox as a default browser in its editions. This does not imply any affiliation with or endorsement by Mozilla.
+
+## KDE Plasma
+
+- KDE and the KDE logo are registered trademarks of KDE e.V. The NeoTux Neocelium edition is built on KDE Plasma. This does not imply any affiliation with or endorsement by KDE e.V.
+
+## GNOME, XFCE, Budgie
+
+- GNOME is a trademark of the GNOME Foundation. XFCE and Budgie are their respective projects' trademarks. NeoTux uses these desktop environments in its editions without implying any official relationship with their respective organizations.
+
+## Other Trademarks
+
+- All other trademarks, product names, and company names mentioned on this site are the property of their respective owners.
+
+
 [NeoTuxOS Website](https://projectneo.netlify.app/)
